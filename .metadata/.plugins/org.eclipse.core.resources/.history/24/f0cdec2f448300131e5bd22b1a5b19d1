@@ -1,0 +1,25 @@
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <title>My New CV</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+     <link href="css/style.css" rel="stylesheet" media="screen">
+    </head>
+    <body>
+    	<div id="header">
+    		<p id="name"> May Nyein </p>
+    		<a href="mailto:maynyein@yandex.com"><p id="email">maynyein@yandex.com</a>		
+    	</div>
+    <h1>This is my new CV </h1>
+    
+     <div><p>HTML5</p></div>
+     <div><p>CSS3</p></div>
+     <div><p>JavaScrpt</p></div>
+     <div><p id="cms">Wordpress</p></div>
+     <div><p id="cms">Drupal</p></div>
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    </body>
+    </html>

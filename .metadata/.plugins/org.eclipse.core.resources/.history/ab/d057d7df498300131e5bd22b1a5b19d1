@@ -1,0 +1,25 @@
+div {
+position: relative;
+display: inline-block;
+height:100px;
+width:100px;
+border-radius:100%;
+border:2px solid black;
+text-align:center;
+
+
+} 
+.circle{
+	position: relative;
+	margin-top:40px;
+	font-size:12px;
+}
+.cms{
+	border:2px dashed pink;
+	background-color: violet;;
+}
+video{
+	max-width:100%;
+	height:auto;
+}
+}

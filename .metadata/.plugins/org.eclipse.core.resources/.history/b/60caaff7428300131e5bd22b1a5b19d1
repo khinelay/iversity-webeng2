@@ -1,0 +1,21 @@
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <title>May Thet Khine Nyein</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+     <link href="css/style.css" rel="stylesheet" media="screen">
+    </head>
+    <body>
+    <h1>This is my new CV </h1>
+    
+     <div>HTML5</div>
+     <div>CSS3</div>
+     <div>JavaScrpt</div>
+     <div>CMS </div>
+     <div>Mobile Dev</div>
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    </body>
+    </html>

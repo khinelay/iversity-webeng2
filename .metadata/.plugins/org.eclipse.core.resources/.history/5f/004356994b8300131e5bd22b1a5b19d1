@@ -18,12 +18,10 @@
     	<source=src="http://youtu.be/ig1lNEGTego" type="video/ogg">
     	
     </video>
-    <div></div>
-     <div class="clearfix"> When he was born, </div>
-     <div></div>
-     <div class="circle"><p class="circletxt">28-12-2013</p></div>
-     <div class="circle"><p class="circletxt">Friday Born</p></div>
-     <div class="circle"><p class="circletxt">7 lb</p></div>
+    
+     <div class="circle"><p>28-12-2013</p></div>
+     <div class="circle"><p>Friday Born</p></div>
+     <div class="circle"><p>7 lb</p></div>
      <div class="cms"><p>Dad</p></div>
      <div  class="cms"><p>Mom</p></div>
      
